@@ -51,8 +51,11 @@ The primary data source used for this project is the Kaggle dataset.
   **Exploratory Data Analysis**
   -Investigate and summarize data using descriptive statistics and visualization
 
+  <img width="976" height="662" alt="image" src="https://github.com/user-attachments/assets/61254cd3-e3ea-4811-aa9a-76d7d02340e4" />
+  The correlation heatmap confirms that the number of projects, monthly hours, and evaluation scores all have some positive correlation with each other, and whether an employee leaves is   negatively correlated with their satisfaction level.
+
   ## Modeling and Evaluation
-  -A random forest model comprising 100 decision trees was used to determine feature importances for Employee Leaving.  The below plot shows that last evaluation, number of projects, tenure and overworked had the highest importance for employees leaving. The overall model performed with 86% accuracy and 72% precision
+  -A random forest model comprising 100 decision trees was used to determine feature importances for Employee Leaving.  The below plot shows that last evaluation, number of projects, tenure and overworked had the highest importance for employees leaving. The overall model performed with 86% accuracy and 72% precision.
 
 <img width="1023" height="580" alt="image" src="https://github.com/user-attachments/assets/d022a524-1188-41c3-87bc-a2b9fb49a17b" />
 
