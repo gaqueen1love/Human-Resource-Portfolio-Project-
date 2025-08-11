@@ -27,7 +27,7 @@ The primary data source used for this project is the Kaggle dataset.
   The dataset represents employee records from an HR system, containing a mix of numerical and categorical variables. These attributes describe satisfaction, performance,                   workload,tenure, and compensation, providing the basis for both exploratory and predictive analysis.
 
   **Dataset Structure**
-  In this dataset, there are 14,999 rows, 10 columns, 
+  In this dataset, there are 14,999 rows, 10 columns. 
 
   **Cleaned Data**
   -Gathered descriptive statistics about the data
@@ -39,13 +39,14 @@ The primary data source used for this project is the Kaggle dataset.
   **Exploratory Data Analysis**
   -Investigate and summarize data using descriptive statistics and visualization
 
-  <img width="976" height="662" alt="image" src="https://github.com/user-attachments/assets/61254cd3-e3ea-4811-aa9a-76d7d02340e4" />
+ <img width="748" height="508" alt="image" src="https://github.com/user-attachments/assets/5ab44d8e-c4cb-4e80-a89e-b7f37ef63b8e" />
+
   The correlation heatmap confirms that the number of projects, monthly hours, and evaluation scores all have some positive correlation with each other, and whether an employee leaves is   negatively correlated with their satisfaction level.
 
   ## Modeling and Evaluation
   -A random forest model comprising 100 decision trees was used to determine feature importances for employee leaving. The below plot shows that last evaluation, number of projects, tenure and overworked had the highest importance for employees leaving. The overall model performed with 86% accuracy and 72% precision.
 
-<img width="1023" height="580" alt="image" src="https://github.com/user-attachments/assets/d022a524-1188-41c3-87bc-a2b9fb49a17b" />
+<img width="686" height="388" alt="image" src="https://github.com/user-attachments/assets/77aa7df8-4855-45b1-865a-5bb849c6ef7e" />
 
    ## Conclusion
    Employees are leaving the company as a result of poor management. Employees leaving is tied to longer working hours, many projects, and lower satisfaction levels. Working long hours      and not receiving promotions or good evalations scores makes employees dissatisfied.
