@@ -59,17 +59,10 @@ The primary data source used for this project is the Kaggle dataset.
 
 <img width="1023" height="580" alt="image" src="https://github.com/user-attachments/assets/d022a524-1188-41c3-87bc-a2b9fb49a17b" />
 
-
    ## Conclusion
    -Employees are leaving the company as a result of poor management. Employees leaving is tied to longer working hours, many projects, and lower satisfaction levels. Working long hours      and not receiving promotions or good evalations scores makes employees dissatisfied.
   
-    **To retain employees, the following recommendations could be presented to the stakeholders:**
-    Cap the number of projects that employees can work on.
-    Consider promoting employees who have been with the company for atleast four years, or conduct further investigation about why four-year tenured employees are so dissatisfied.
-    Either reward employees for working longer hours, or don't require them to do so.
-	If employees aren't familiar with the company's overtime pay policies, inform them about this. If the expectations around workload and time off aren't explicit, make them clear.
-    Hold company-wide and within-team discussions to understand and address the company work culture, across the board and in specific contexts.
-    High evaluation scores should not be reserved for employees who work 200+ hours per month. Consider a proportionate scale for rewarding employees who contribute more/put in more          effort.
+   
 
   
 
