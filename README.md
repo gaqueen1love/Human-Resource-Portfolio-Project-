@@ -31,7 +31,7 @@ The primary data source used for this project is the Kaggle dataset.
 
   **Variable Description**
   •	satisfaction_level	          Employee-reported job satisfaction level [0–1]
-   -last_evaluation	             Score of employee's last performance review [0–1]
+   •	last_evaluation	             Score of employee's last performance review [0–1]
    -number_project	              Number of projects employee contributes to
    -average_monthly_hours	       Average number of hours employee worked per month
    -time_spend_company	          How long the employee has been with the company (years)
