@@ -63,7 +63,11 @@ The primary data source used for this project is the Kaggle dataset.
    Employees are leaving the company as a result of poor management. Employees leaving is tied to longer working hours, many projects, and lower satisfaction levels. Working long hours      and not receiving promotions or good evalations scores makes employees dissatisfied.
 
    **Recommendations**
-  -Cap the number of projects that employees can work on.
+   Cap the number of projects that employees can work on.
+   Consider promoting employees who have been with the company for atleast four years or conduct further investigation about why four-year tenured emplyees are so dissatisfied.
+   Either reward employees for working longer hours, or don't requre them to do so. 
+   
+  
    
 
   
