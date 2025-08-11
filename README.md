@@ -29,7 +29,7 @@ The primary data source used for this project is the Kaggle dataset.
   **Dataset Structure**
   In this dataset, there are 14,999 rows, 10 columns, and these variables:
 
-  -Variable	Description
+  **Variable Description**
    satisfaction_level	          Employee-reported job satisfaction level [0–1]
    last_evaluation	             Score of employee's last performance review [0–1]
    number_project	              Number of projects employee contributes to
