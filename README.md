@@ -30,7 +30,7 @@ The primary data source used for this project is the Kaggle dataset.
   In this dataset, there are 14,999 rows, 10 columns, and these variables:
 
   **Variable Description**
-   -satisfaction_level	          Employee-reported job satisfaction level [0–1]
+  •	satisfaction_level	          Employee-reported job satisfaction level [0–1]
    -last_evaluation	             Score of employee's last performance review [0–1]
    -number_project	              Number of projects employee contributes to
    -average_monthly_hours	       Average number of hours employee worked per month
@@ -63,10 +63,13 @@ The primary data source used for this project is the Kaggle dataset.
    Employees are leaving the company as a result of poor management. Employees leaving is tied to longer working hours, many projects, and lower satisfaction levels. Working long hours      and not receiving promotions or good evalations scores makes employees dissatisfied.
 
    **Recommendations**
-   Cap the number of projects that employees can work on.
-   Consider promoting employees who have been with the company for atleast four years or conduct further investigation about why four-year tenured emplyees are so dissatisfied.
-   Either reward employees for working longer hours, or don't requre them to do so. 
-   
+   •	Cap the number of projects that employees can work on.
+   •	Consider promoting employees who have been with the company for atleast four years, or conduct further investigation about why four-year tenured employees are so dissatisfied.
+   •	Either reward employees for working longer hours, or don't require them to do so.
+   •	If employees aren't familiar with the company's overtime pay policies, inform them about this. If the expectations around workload and time off aren't explicit, make them clear.
+   •	Hold company-wide and within-team discussions to understand and address the company work culture, across the board and in specific contexts.
+   •	High evaluation scores should not be reserved for employees who work 200+ hours per month. Consider a proportionate scale for rewarding employees who contribute more/put in more          effort. 
+
   
    
 
