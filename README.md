@@ -12,5 +12,4 @@ The goal of this project is to create mutiple regression models to predict wheth
 ## Dataset used **https://www.kaggle.com/datasets/giripujar/hr-analytics**
 
 ## Questions(KPIs)
--
--
+
