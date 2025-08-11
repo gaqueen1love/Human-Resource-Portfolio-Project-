@@ -63,7 +63,7 @@ The primary data source used for this project is the Kaggle dataset.
    ## Conclusion
    -Employees are leaving the company as a result of poor management. Employees leaving is tied to longer working hours, many projects, and lower satisfaction levels. Working long hours      and not receiving promotions or good evalations scores makes employees dissatisfied.
   
-   **To retain employees, the following recommendations could be presented to the stakeholders:**
+    To retain employees, the following recommendations could be presented to the stakeholders:
     -Cap the number of projects that employees can work on.
     -Consider promoting employees who have been with the company for atleast four years, or conduct further investigation about why four-year tenured employees are so dissatisfied.
     -Either reward employees for working longer hours, or don't require them to do so.
