@@ -60,8 +60,10 @@ The primary data source used for this project is the Kaggle dataset.
 <img width="1023" height="580" alt="image" src="https://github.com/user-attachments/assets/d022a524-1188-41c3-87bc-a2b9fb49a17b" />
 
    ## Conclusion
-   -Employees are leaving the company as a result of poor management. Employees leaving is tied to longer working hours, many projects, and lower satisfaction levels. Working long hours      and not receiving promotions or good evalations scores makes employees dissatisfied.
-  
+   Employees are leaving the company as a result of poor management. Employees leaving is tied to longer working hours, many projects, and lower satisfaction levels. Working long hours      and not receiving promotions or good evalations scores makes employees dissatisfied.
+
+   **Recommendations**
+  -Cap the number of projects that employees can work on.
    
 
   
