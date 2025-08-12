@@ -37,7 +37,7 @@ The primary data source used for this project is the Kaggle dataset.
   - Checked ouliers
   
   **Exploratory Data Analysis**
-  Investigate and summarize data using descriptive statistics and visualization
+  Investigate and summarize data using descriptive statistics and visualization.
 
  <img width="748" height="508" alt="image" src="https://github.com/user-attachments/assets/5ab44d8e-c4cb-4e80-a89e-b7f37ef63b8e" />
 
